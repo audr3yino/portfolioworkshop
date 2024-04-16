@@ -36,17 +36,17 @@ export default function Page() {
     <section>
 
       <h1 className="mb-10 text-5xl font-semibold tracking-tighter">
-        First Last
+        samar varmajawn
       </h1>
 
       <p className="mb-6">
-        I am a ________ year undergraduate student studying ___________________ ________ at <a href={ucdavis} target="_blank" className="link">UC Davis</a>. 
+        I am a 5' 5" year undergraduate student studying rizzology 🤓 at <a href={ucdavis} target="_blank" className="link">Clown </a>. 
       </p>
       <p className="mb-6">
-        I have a strong passion for _____________. Add another sentence here about your interests or drive or passion.
+        I have a strong passion for women. Add another sentence here about your interests or drive or passion.
       </p>
       <p className="mb-6">
-        Currently, I work on __________ at <a href={aggieworks} target="_blank" className="link">AggieWorks</a>. I also do ______________ at <a href={asa} target="_blank" className="link">Aggie Sports Analytics</a>.
+        Currently, I work on aroop at <a href={aggieworks} target="_blank" className="link">AggieWorks</a>. I also do andrew chen  at <a href={asa} target="_blank" className="link">Hanson</a>.
       </p>
 
       <ul className="font-sm mt-10 flex flex-col space-x-0 space-y-2 text-neutral-600 md:flex-row md:space-x-4 md:space-y-0 green">
