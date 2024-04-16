@@ -46,7 +46,7 @@ export default function Page() {
         I have a strong passion for women. Add another sentence here about your interests or drive or passion.
       </p>
       <p className="mb-6">
-        Currently, I work on aroop at <a href={aggieworks} target="_blank" className="link">AggieWorks</a>. I also do andrew chen  at <a href={asa} target="_blank" className="link">Hanson</a>.
+        Currently, I love being goofy ☝️🤓<a href={aggieworks} target="_blank" className="link">AggieWorks</a>. I also do love being hard <a href={asa} target="_blank" className="link">!!!!</a>.
       </p>
 
       <ul className="font-sm mt-10 flex flex-col space-x-0 space-y-2 text-neutral-600 md:flex-row md:space-x-4 md:space-y-0 green">
